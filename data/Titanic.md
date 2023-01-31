@@ -20,20 +20,20 @@ Column represents passenger's age.
 
 Column represents the number of siblings or spouse accompanying the passenger.
 
-# parch
+## parch
 
 Column represents the number of parents or children accompanying the passenger.
 
-# fare
+## fare
 
 Column represents the fare paid by passenger.
 
-# cabin
+## cabin
 
-# embarked
+## embarked
 
 Column represents the port of embarkation: {S, C, Q}. S = Southampton, England. C = Cherbourg, France, Q = Queenstown, Ireland
 
-# home.des
+## home.des
 
 Column represents home destination
