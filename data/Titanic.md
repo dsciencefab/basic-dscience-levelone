@@ -2,37 +2,47 @@
 
 ## pclass
 
-Column represents the passenger class: {1, 2, 3}. 1 = first class; 2 = second class; 3 = third class
+Passenger class: {1, 2, 3}. 1 = first class; 2 = second class; 3 = third class
 
 ## survived
 
-Column represents whether the passenger survived: {0,1}. 1 = survived; 0 = died.
+Survival: {0,1}. 1 = Yes; 0 = No
 
 ## sex
 
-Column represents passenger's sex: {"female", "male"}
+Sex: {female, male}
 
 ## age
 
-Column represents passenger's age. 
+Age 
 
 ## sibsp
 
-Column represents the number of siblings or spouse accompanying the passenger.
+Number of siblings or spouse aboard.
 
 ## parch
 
-Column represents the number of parents or children accompanying the passenger.
+Number of parents or children aboard.
 
 ## fare
 
-Column represents the fare paid by passenger.
+Passenger Fare
 
 ## cabin
 
+Cabin
+
 ## embarked
 
-Column represents the port of embarkation: {S, C, Q}. S = Southampton, England. C = Cherbourg, France, Q = Queenstown, Ireland
+Port of Embarkation: {S, C, Q}. S = Southampton, England. C = Cherbourg, France, Q = Queenstown, Ireland
+
+## boat
+
+Lifeboat (if survived)
+
+# body
+
+Body number (if did not survive)
 
 ## home.des
 
